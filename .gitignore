@@ -1,0 +1,6 @@
+venv/
+*.pyc
+.env
+target/
+logs/
+*.egg-info

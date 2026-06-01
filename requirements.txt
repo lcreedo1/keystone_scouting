@@ -1,0 +1,7 @@
+statsbombpy=1.18
+Jupyter
+ipykernel
+google-cloud-bigquery
+pandas
+numpy
+python-dotenv
